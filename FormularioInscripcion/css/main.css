@@ -1,0 +1,45 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1, h3 {
+  color: #2A3B80;
+  font-family: 'Lobster', cursive;
+  margin-bottom: 4%;
+}
+
+h1 {
+  font-size: 4rem;
+}
+
+label {
+  font-weight: bold;
+}
+
+.logo {
+  margin: 3% auto;
+  width: 15%;
+}
+
+.btn-primary {
+  background-color: #2A3B80;
+  border-color: #2A3B80;
+  font-family: 'Roboto', sans-serif;
+  margin: 15% 5% 15% 5%;
+}
+
+.footer {
+  background-color: #BDBDBD;
+  height: 50px;
+  padding: 1%;
+}
+
+.Copyright {
+  color: white;
+  font-size: 0.7rem;
+}
+
+.input-group-text {
+  background-color: #689F38;
+  color: white;
+}

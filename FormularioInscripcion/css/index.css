@@ -1,0 +1,51 @@
+body {
+  font-family: 'Roboto', sans-serif;
+}
+
+h1 {
+  color: #2A3B80;
+  font-family: 'Lobster', cursive;
+  font-size: 3rem;
+  margin-bottom: 4%;
+  text-align: center;
+}
+
+label {
+  font-weight: bold;
+}
+
+.logo {
+  margin: 3% auto;
+  width: 15%;
+}
+
+.contenido{
+padding:  6% 1%;
+}
+
+.btn-primary {
+  background-color: #2A3B80;
+  border-color: white;
+  font-family: 'Roboto', sans-serif;
+}
+ .btn-group{
+margin: 1% 0;
+}
+
+.footer {
+  padding: 1%;
+}
+
+.Copyright {
+  color: black;
+  font-size: 0.7rem;
+}
+
+@media (max-width: 575.98px) {
+h1{
+  font-size: 2rem;
+}
+.logo{
+  width: 100%;
+}
+ }

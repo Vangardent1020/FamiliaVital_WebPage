@@ -1,0 +1,109 @@
+.tittle
+     font-family: $font-title
+     font-size: $h1
+     color: $color-primary
+     text-align: center
+     padding: 3% 0%
+
+.subtitle
+     font-family: $font-title
+     font-size: $h3
+     color: $blue
+     text-align: center
+     padding: 3% 0%
+
+.subtitleform
+     font-family: $font-component
+     font-size: $h4+50%
+     font-weight: bold
+     color: $color-tertiary
+     text-align: left
+     padding: 3% 0%
+
+.component
+     margin: 2% 0%
+
+     h5
+          font-family: $font-title
+          font-size: $h3
+          color: $color-quaternary
+
+     h2
+          font-family: $font-title
+          font-size: $h3
+          color: $color-secondary
+          text-align: center
+          margin: 3% 0% 3%
+
+@mixin blockquoteColor ($fondo)
+     background-color: $fondo
+     color: $white
+     border-radius: 0.25rem
+     margin: 1% 0%
+
+@mixin blockquoteColorHover ($fondoH)
+     &:hover
+          background-color: $fondoH
+          color: $maroon
+
+#nServicios
+     @include blockquoteColor($color-tertiary)
+     @include blockquoteColorHover($gray)
+
+#nServicios1
+     @include blockquoteColor($color-quaternary)
+     @include blockquoteColorHover($gray)
+#nServicios2
+     @include blockquoteColor($color-secondary)
+     @include blockquoteColorHover($gray)
+#descripcion
+     @include blockquoteColor($color-tertiary)
+
+.animation
+     animation-duration: 4s
+     animation-name: text
+
+.text
+     font-family: $font-component
+     font-size: $p
+     padding: 2%
+
+.btnCargue
+     margin: 7%
+     background-color: $color-primary
+     color: $white
+     &:hover
+          background-color: $blue
+
+.link
+     color: $color-tertiary
+     font-family: $font-component
+     font-size: $h5 - 10%
+     padding-left: 0%
+     &:hover
+          text-decoration: none
+          color: $purple
+     &:active
+          text-decoration: none
+          color: $purple
+     &:visited
+          text-decoration: none
+          color: $purple
+     &:focus
+          text-decoration: none
+          color: $purple
+
+.card-deck
+     width: 100%
+.banner_1
+     position: fixed
+     left: 97.3%
+     z-index: 1
+.banner_2
+     position: fixed
+     left: 86%
+     z-index: 1
+.card-header
+     h5
+          font-size: $h3
+          text-align: center
