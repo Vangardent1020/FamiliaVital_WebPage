@@ -76,7 +76,7 @@
                                         <div id="collapseOne" class="collapse " aria-labelledby="q1" data-parent="#accordion1">
                                              <div class="card-body text">
                                                   Puedes ponerte en contacto con nosotros por medio de nuestras líneas de atención al cliente 300-7664989, 300-7664633, 301-3887759 o (7) 6466001, a los correos gerencia@clubfamiliavital.com, coordinacionredservicios@clubfamiliavital.com o coordinacióncomercial@clubfamiliavital.com.
-                                                  <br/><br/> También podrás diligenciar el siguiente formulario de<a href="../secciones/asesores.php"> inscripción </a>y un asesor se comunicará contigo.
+                                                  <br/><br/> También podrás diligenciar el siguiente formulario de<a href="../formularios/FormularioInscripcion.php"> inscripción </a>y un asesor se comunicará contigo.
                                              </div>
                                         </div>
                                    </div>

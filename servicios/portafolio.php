@@ -488,7 +488,7 @@
                       <li class="list-group-item">Ecografia con perfil biofisico</li>
                       <li class="list-group-item">Colposcopia+Biopsia</li>
                       <li class="list-group-item">Ecografia 4D</li>
-                      <li class="list-group-item">Mamopastia</li>
+                      <li class="list-group-item">Mamoplastia</li>
                       <li class="list-group-item">Liceptomia</li>
                       <li class="list-group-item">Liposucción (Incluye 12 postquirurgicos, faja, medicamentos, poliza medica, medias)</li>
                       <li class="list-group-item">Labioplastia</li>
